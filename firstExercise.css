@@ -1,0 +1,26 @@
+h1
+{
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px;
+    font-family: monospace;
+}
+
+p
+{
+    color: red;
+    text-align: center;
+    font-family: fantasy;
+}
+
+body
+{
+    background-color: white;
+}
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
